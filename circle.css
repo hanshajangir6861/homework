@@ -1,5 +1,5 @@
 .circle{
-    background-color:black;
+    background-color:orangered;
     width:500px;
     height: 500px;
     border-radius: 50%;
@@ -10,7 +10,7 @@
 .line {
 height: 2px;
 width: 500px;
-background:#fff ;
+background:black ;
 position: absolute;
 top: 49%;
 }
